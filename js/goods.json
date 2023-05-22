@@ -1,0 +1,39 @@
+[
+    {
+      "src": "img/study.png",
+      "alt": "Messenger",
+      "caption": "This is the logo of messenger"
+    },
+    {
+        "src": "img/photo1.jpg",
+        "alt": "Chrome",
+        "caption": "This is the logo of chrome"
+    },
+    {
+        "src": "img/photo2.jpg",
+        "alt": "pinterest",
+        "caption": "This is the logo of pinterest"
+    },
+    {
+        "src": "img/photo3.jpg",
+        "alt": "telegram",
+        "caption": "This is the logo of telegram"
+    },
+    {
+        "src": "img/photo4.jpg",
+        "alt": "facebook",
+        "caption": "This is the logo of facebook"
+      },
+      {
+          "src": "img/photo5.jpg",
+          "alt": "tiktok",
+          "caption": "This is the logo of tiktok"
+      },
+      {
+          "src": "img/photo6.jpeg",
+          "alt": "tiktok",
+          "caption": "This is the logo of tiktok"
+      }
+    ]
+     
+  
