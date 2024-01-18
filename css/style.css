@@ -157,7 +157,7 @@ p {
    margin-bottom: 20px;
 }
 .nav-link:hover {
-    color: var(--yellow);
+    color: var(--white);
 }
 
 .navbar_button {
